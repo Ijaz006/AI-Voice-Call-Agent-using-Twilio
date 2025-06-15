@@ -12,6 +12,7 @@ A powerful integration of OpenAI's Realtime API with Twilio's Voice services to 
 - Interrupt handling for natural conversation flow
 - Session management and real-time updates
 
+
 ## Prerequisites
 Before you begin, ensure you have:
 - Python 3.8 or higher
